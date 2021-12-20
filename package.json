@@ -1,0 +1,12 @@
+{
+  "name": "json-server-db",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch ./index.js --port 8080"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
